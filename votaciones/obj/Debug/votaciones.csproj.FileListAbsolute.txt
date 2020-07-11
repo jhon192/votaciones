@@ -1,0 +1,5 @@
+C:\Users\jjjho\RiderProjects\votaciones\votaciones\bin\Debug\votaciones.exe
+C:\Users\jjjho\RiderProjects\votaciones\votaciones\bin\Debug\votaciones.pdb
+C:\Users\jjjho\RiderProjects\votaciones\votaciones\obj\Debug\votaciones.exe
+C:\Users\jjjho\RiderProjects\votaciones\votaciones\obj\Debug\votaciones.pdb
+C:\Users\jjjho\RiderProjects\votaciones\votaciones\obj\Debug\votaciones.csprojResolveAssemblyReference.cache
